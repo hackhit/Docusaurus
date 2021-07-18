@@ -70,7 +70,7 @@
     "markdown-toc": "^1.2.0",
     "mkdirp": "^0.5.1",
     "portfinder": "^1.0.17",
-    "postcss": "^7.0.1",
+    "postcss": "^7.0.36",
     "prismjs": "^1.15.0",
     "react": "^16.5.0",
     "react-dev-utils": "^5.0.2",
